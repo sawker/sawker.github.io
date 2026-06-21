@@ -4,4 +4,4 @@ draft = false
 title = 'Mi Primer Post'
 +++
 
-minprimer post de hugo con PaperMod
+mi primer post de hugo con PaperMod
