@@ -1,7 +1,7 @@
 ---
 title:      "swith y kinster"
 date:       2026-05-12T13:25:55-04:00
-tags:       "bdsm"
+tags:       ["bdsm"]
 draft:	    false
 ---
 # Switch y Kinster: diferencias, similitudes y puntos de convergencia

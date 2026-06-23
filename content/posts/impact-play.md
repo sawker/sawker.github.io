@@ -1,8 +1,8 @@
 ---
 title:      "impact play"
 date:       2026-05-08T14:31:01-04:00
-tags:       "bdsm"
-
+tags:       ["bdsm"]
+draft:	    false
 ---
 # El arte de la progresión: fases, lectura corporal y toma de decisiones en el impact play
 
