@@ -1,7 +1,7 @@
 ---
 title:      "taxonomia del BDSM"
 date:       2026-04-27T12:08:40-04:00
-tags:       ["bdsm""psicologia"]
+tags:       "bdsm" "psicologia"
 draft:	    false
 ---
 
