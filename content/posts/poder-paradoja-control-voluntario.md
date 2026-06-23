@@ -1,7 +1,7 @@
 ---
 title:      "poder paradoja control voluntario"
 date:       2026-05-19T11:48:09-04:00
-tags:       ["bdsm"]
+tags:       "bdsm"
 draft:	    false
 ---
 ## La Paradoja de la Sumisión: Voluntad, Obediencia y la Ilusión del Poder Absoluto
