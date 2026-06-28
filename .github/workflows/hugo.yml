@@ -42,6 +42,7 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
+	  HUGO_CACHEDIR: ${{ racer.cache-dir }}
         run: |
           hugo \
             --gc \
