@@ -1,16 +1,16 @@
 ---
-title:      "impact play"
-date:       2026-05-08T14:31:01-04:00
-tags:       ["bdsm"]
-draft:	    false
+#+title:      impact play
+#+date:       2026-05-08T14:31:01-04:00
+#+tags:       (BDSM)
+#+draft:      false
 ---
-# El arte de la progresión: fases, lectura corporal y toma de decisiones en el impact play
+* El arte de la progresión: fases, lectura corporal y toma de decisiones en el impact play
 
 En muchas conversaciones sobre impact play existe una tendencia a reducirlo a una cuestión de intensidad: qué tan fuerte golpear, qué instrumento usar o cuánto dolor puede soportar una persona. Sin embargo, esa visión es limitada. El buen impact play no consiste en “pegar fuerte”, sino en comprender un proceso. Es una práctica de regulación, comunicación, observación y progresión.
 
 La diferencia entre una escena memorable y una mala experiencia rara vez está en la potencia del golpe. Está en la calidad de la lectura del cuerpo, el ritmo de construcción y la capacidad de adaptación. El impacto, cuando se realiza de forma consciente, es menos parecido a una descarga caótica de fuerza y mucho más cercano a una conversación física.
 
-## La falsa idea de intensidad
+** La falsa idea de intensidad
 
 Un error común entre practicantes novatos es pensar que la calidad de una escena depende de cuánto se soporta o cuánto se logra imponer. Desde fuera, puede parecer lógico: si hay dolor, entonces más dolor equivaldría a una escena “más intensa” o “más exitosa”. Pero el cuerpo humano no funciona así.
 
@@ -18,7 +18,7 @@ El sistema nervioso no procesa el dolor de manera lineal. La percepción cambia 
 
 Por eso el impact play no debería entenderse como una secuencia de castigos aislados, sino como una curva progresiva de estimulación. El cuerpo necesita entrar en escena tanto como la mente.
 
-## La fase olvidada: preparación
+** La fase olvidada: preparación
 
 Muchos errores ocurren antes incluso del primer golpe.
 
@@ -136,7 +136,7 @@ Porque una buena escena no ocurre cuando alguien logra imponer intensidad.
 
 Ocurre cuando dos sistemas nerviosos consiguen encontrarse dentro de ella.
 
-## Lecturas recomendadas:
+*** referencias:
 Easton, D. & Hardy, J. The New Topping Book; The New Bottoming Book.
 Wiseman, J. SM 101: A Realistic Introduction.
 Recursos de NCSF sobre consentimiento y reducción de riesgos. 
