@@ -1,9 +1,10 @@
----
-title:      "La paradoja de la Sumision: Voluntad, Obediencia y la Ilusion del Poder Absoluto"
-date:       2026-05-19T11:48:09-04:00
-tags:       ["bdsm"]
-draft:	    false
----
+-----
+#+title:	La paradoja de la Sumision: Voluntad, Obediencia y la Ilusion del Poder Absoluto
+#+date:		2026-05-19T11:48:09-04:00
+#+tags:		(BDSM)
+#+categories[]:	(BDSM)
+#+draft:	false
+-----
 
 Desde una perspectiva antropológica, el poder no es un objeto que se posee, sino una relación que se actúa. Las sociedades humanas, en su infinita diversidad transcultural, han estructurado jerarquías, normas y rituales destinados a regular la conducta colectiva. En el centro de estas estructuras yace una tensión fundamental: la dinámica entre la dominación y la subordinación. A primera vista, el tejido social parece dividirse nítidamente entre quienes emiten las órdenes y quienes las ejecutan. Sin embargo, al observar de cerca los mecanismos de la obediencia, emerge una paradoja antropológica y psicológica que subvierte la narrativa tradicional del dominio: la paradoja del control voluntario. Quien obedece, en última instancia, está eligiendo obedecer, lo que altera radicalmente la respuesta a la pregunta sobre quién posee realmente el poder.
 
